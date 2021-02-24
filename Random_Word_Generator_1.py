@@ -4,7 +4,7 @@ word_list = [	'Facetious', 'Doctrinaire', 'Didactic', 'Opprobrium', 'Avarice',
 				'Heretical', 'Empirical', 'Reconvene', 'Rebound', 'Abrogate', 
 				'Staid', 'Eclectic', 'Bedraggled', 'Morose', 'Chary', 
 				'Contrite', 'Detestable', 'Feign', 'Ingratiate', 'Complaisance', 
-				'Retreat', 'Plodding', 'Potpourri', 'Exiguous', '25.) Surfeit', 
+				'Retreat', 'Plodding', 'Potpourri', 'Exiguous', 'Surfeit', 
 				'Fortuious', 'Vista', 'Bloster', 'Pedantic', 'Occlude', 
 				'Lambast', 'Inchoate', 'Exscind', 'Descant', 'Refulgent', 
 				'Sojourn', 'Infelicitous', 'Precursor', 'Guileless', 'Liturgy'
