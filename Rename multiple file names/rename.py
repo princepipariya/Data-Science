@@ -6,11 +6,10 @@ import os
   
 # Function to rename multiple files
 def main():
-  
-    for count, filename in enumerate(os.listdir("xyz")):
-        dst ="Hostel" + str(count) + ".jpg"
-        src ='xyz'+ filename
-        dst ='xyz'+ dst
+    for count, filename in enumerate(os.listdir("with_mask")):
+        dst ="mask" + str(count+1) + ".jpg"
+        src ='with_mask/'+ filename
+        dst ='with_mask/'+ dst
           
         # rename() function will
         # rename all the files
